@@ -1,1 +1,1 @@
-Added functionality B.
+Changed the way functionality B works.
