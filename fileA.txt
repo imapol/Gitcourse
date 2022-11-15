@@ -1,1 +1,1 @@
-Added functionality A.
+Functionality A version 2.0.
